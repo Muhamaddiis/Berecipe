@@ -12,6 +12,27 @@ h1 {
   line-height: 1.1;
   font-weight: 400px;
 }
+.button-style:hover{
+  border: 1px solid #84c318;
+  background: transparent
+}
+
+.rectangle {
+  border-radius: 0px 78px;
+}
+.rectangle-bottom{
+  transform: translate(400px, -250%);
+}
+.rectangle-middle{
+  transform: translate(600px, 20%);
+}
+.rectangle-top-left{
+  transform: translate(-10rem, -15%);
+}
+.share {
+  transform: rotate(-7.864deg);
+  border-style: inset dotted #000
+}
 
 .sidebar {
   -webkit-animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;

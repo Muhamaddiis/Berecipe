@@ -30,7 +30,7 @@ const Nav = () => {
             </div>
             <div className={`space-x-4 py-2 hidden sm:block`}>
                 <Button text={"signup"} handleClick={signUp} isACtive={buttonActive} />
-                <Button text={"login"} />
+                <Button text={"login"}/>
             </div>
             <div className="sm:hidden flex flex-1 justify-end items-center">
                 <img
