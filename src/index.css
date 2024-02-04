@@ -12,6 +12,11 @@ h1 {
   line-height: 1.1;
   font-weight: 400px;
 }
+
+li {
+  margin-left: 1rem;
+}
+
 .button-style:hover{
   border: 1px solid #84c318;
   background: transparent

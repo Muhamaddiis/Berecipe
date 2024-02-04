@@ -3,6 +3,7 @@ import { navLinks, navLinksSide } from "../Constants"
 import { useState } from "react"
 import Menu from "../Assets/menu.svg"
 import Close from "../Assets/Close.svg"
+import { Link } from "react-router-dom"
 
 
 const Nav = () => {
@@ -24,7 +25,7 @@ const Nav = () => {
                             className={`${active === nav.title ? "text-black" : "text-slate-500"}`}
                             onClick={() => setActive(nav.title)}
                             >
-                        <a href={`#${nav.id}`}>{nav.title}</a>
+                        <Link to={nav.id}>{nav.title}</Link>
                     </li>)}
                 </ul>
             </div>
