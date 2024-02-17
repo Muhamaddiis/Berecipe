@@ -73,6 +73,137 @@
         "ingredients": ["chicken breast", "vegetables (e.g., broccoli, bell peppers, carrots)", "soy sauce", "sesame oil", "ginger", "garlic", "rice"],
         "image": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
         "instructions": "1. Cut chicken into bite-sized pieces. \n2. Stir-fry chicken in sesame oil until browned. \n3. Add chopped vegetables, ginger, and garlic. \n4. Pour in soy sauce and continue cooking until vegetables are tender. \n5. Serve over cooked rice."
+      },
+      {
+        "id": 7,
+        "title": "Rock Cakes",
+        "category": "Pasteries",
+        "ingredients": ["Self-raising Flour", "Caster Sugar", "Baking Powder", "Dried Fruits", "Eggs", "Milk", "Vanilla Extract"],
+        "image": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
+        "instructions": ["Preheat oven to 180C/350F/Gas 4 and line a baking tray with baking parchment.",
+                        "Mix the flour, sugar and baking powder in a bowl and rub in the cubed butter until the mixture looks like breadcrumbs, then mix in the dried fruit.",
+                        "In a clean bowl, beat the egg and milk together with the vanilla extract.",
+                        "Add the egg mixture to the dry ingredients and stir with a spoon until the mixture just comes together as a thick, lumpy dough. Add a teaspoon more milk if you really need it to make the mixture stick together.",
+                        "Place golfball-sized spoons of the mixture onto the prepared baking tray. Leave space between them as they will flatten and spread out to double their size during baking. ",
+                        "Bake for 15-20 minutes, until golden-brown. Remove from the oven, allow to cool for a couple of minutes then turn them out onto a wire rack to cool."
+                      ]
+      },
+      {
+        "id": 8,
+        "title": "Chicken & mushroom Hotpot",
+        "category": "Dinner",
+        "ingredients": ["Butter", "Onions", "Mushrooms", "Plain Flour", "Chicken Stock Cube", "Nutmeg", "Mustard Powder", "Chicken", "Sweetcorn", "Potatoes"],
+        "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+        "instructions": [
+          "Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.",
+          "Once the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.",
+          "Take the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time.",
+          "Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.",
+          "Carefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.",
+          "Brush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown."
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Chicken Fajita Mac and Cheese",
+        "category": "Lunch",
+        "ingredients": ["macaroni", "chicken stock", "heavy cream", "Fajita seasoning", "Chicken Breast", "Olive oil", "Onion", "Red-Pepper", "garlic","Chedder Cheese", "parsely"],
+        "image": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+        "instructions": [
+          "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.",
+          "Add your cream, stock and macaroni.",
+          "Cook on low for 20 minutes. Add your cheeses, stir to combine",
+          "Top with roasted peppers and parsley."
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Grilled Portugese Sardines",
+        "category": "Lunch",
+        "ingredients": ["Sardines", "Olive Oil", "garlic", "Paprika", "Lemon", "Rosemary", "Red Chilli"],
+        "image": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+        "instructions": [
+          "STEP 1: \n Put all of the ingredients, except the sardines, into a bowl and mix together with some seasoning. Pour into a baking dish, add the sardines and toss really well. Cover and chill for a few hours",
+          "STEP 2: \nHeat a BBQ or griddle pan until hot. Cook the sardines for 4-5 minutes on each side or until really caramelised and charred. Put onto a serving plate, drizzle with oil, sprinkle with a little more paprika and squeeze over the lemon wedges."
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Summer Pudding",
+        "category": "Pasteries",
+        "ingredients": ["Strawberries", "Blackberries", "Redcurrants", "Raspberries", "Castor Sugar", "Bread"],
+        "image": "https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg",
+        "instructions": [
+          "Bring out the juices: Wash fruit and gently dry on kitchen paper – keep strawberries separate. Put sugar and 3 tbsp water into a large pan\n",
+          " Gently heat until sugar dissolves – stir a few times. Bring to a boil for 1 min, then tip in the fruit (not strawberries)\n",
+          "Cook for 3 mins over a low heat, stirring 2-3 times. The fruit will be softened, mostly intact and surrounded by dark red juice. Put a sieve over a bowl and tip in the fruit and juice\n",
+          "Line the bowl with cling film and prepare the bread: Line the 1.25-litre basin with cling film as this will help you to turn out the pudding.\n",
+          "Overlap two pieces of cling film in the middle of the bowl as it’s easier than trying to get one sheet to stick to all of the curves. Let the edges overhang by about 15cm.\n",
+          "Cut the crusts off the bread. Cut 4 pieces of bread in half, a little on an angle, to give 2 lopsided rectangles per piece. Cut 2 slices into 4 triangles each and leave the final piece whole.",
+          "Build the pud: Dip the whole piece of bread into the juice for a few secs just to coat. Push this into the bottom of the basin. Now dip the wonky rectangular pieces one at a time and press around the basin’s sides so that they fit together neatly, alternately placing wide and narrow ends up.\n",
+          "If you can’t quite fit the last piece of bread in it doesn’t matter, just trim into a triangle, dip in juice and slot in. Now spoon in the softened fruit, adding the strawberries here and there as you go.",
+          "Let flavours mingle then serve: Dip the bread triangles in juice and place on top – trim off overhang with scissors. Keep leftover juice for later.\n",
+          "Bring cling film up and loosely seal. Put a side plate on top and weight down with cans. Chill for 6 hrs or overnight. To serve, open out cling film then put a serving plate upside-down on top and flip over. serve with leftover juice, any extra berries and cream."
+
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Beef Asado",
+        "category": "Lunch",
+        "ingredients": ["Beef", "Beef Stock Concentrate", "Tomato Puree", "Water", "Soy Sauce", "White Wine Vinegar", "Pepper", "Bay leaf", "tomato sauce", "olive oil", "Lemon", "Butter", "Onion", "garlic"],
+        "image": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+        "instructions": [
+          "Combine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\n",
+          "Put the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\n",
+          "Add Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\n",
+          "Turn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\n",
+          "Heat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\n",
+          "Save 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\n",
+          "Pour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\n",
+          "Add butter and let it melt. Continue cooking until the sauce reduces to half.\n"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Madeira Cake",
+        "category": "Pasteries",
+        "ingredients": [ "Butter", "Caster Sugar", "Eggs", "Self-raising Flour", "Milk", "Lemon", "Mixed Peel"],
+        "image": "https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg",
+        "instructions": [
+          "Pre-heat the oven to 180C/350F/Gas 4. Grease an 18cm/7in round cake tin, line the base with greaseproof paper and grease the paper. Cream the butter and sugar together in a bowl until pale and fluffy.\n",
+          "Beat in the eggs, one at a time, beating the mixture well between each one and adding a tablespoon of the flour with the last egg to prevent the mixture curdling.\n",
+          "Sift the flour and gently fold in, with enough milk to give a mixture that falls slowly from the spoon. Fold in the lemon zest.\n",
+          "Spoon the mixture into the prepared tin and lightly level the top. Bake on the middle shelf of the oven for 30-40 minutes, or until golden-brown on top and a skewer inserted into the centre comes out clean.\n",
+          "Remove from the oven and set aside to cool in the tin for 10 minutes, then turn it out on to a wire rack and leave to cool completely.\n",
+          "To serve, decorate the cake with the candied peel."
+        ]
+      },{
+        "id": 14,
+        "title": "Kedgeree",
+        "category": "Lunch",
+        "ingredients": ["Smoked Haddock","Bay Leaves","Milk","Eggs","Parsley","Coriander","Vegetable Oil","Onion","Coriander","Curry Powder","Rice"],
+        "image": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+        "instructions": [
+          "For the rice, heat the oil in a large, lidded pan, add the onion, then gently fry for 5 mins until softened but not coloured. Add the spices, season with salt, then continue to fry until the mix start to go brown and fragrant; about 3 mins.\n",
+          "Add the rice and stir in well. Add 600ml water, stir, then bring to the boil. Reduce to a simmer, then cover for 10 mins. Take off the heat and leave to stand, covered, for 10-15 mins more. The rice will be perfectly cooked if you do not lift the lid before the end of the cooking.\n",
+          "Meanwhile, put the haddock and bay leaves in a frying pan, cover with the milk, then poach for 10 mins until the flesh flakes. Remove from the milk, peel away the skin, then flake the flesh into thumbsize pieces.\n",
+          "Place the eggs in a pan, cover with water, bring to the boil, then reduce to a simmer. Leave for 4½-5 mins, plunge into cold water, then peel and cut the eggs into quarters\n",
+          "Gently mix the fish, eggs, parsley, coriander and rice together in the pan. Serve hot, sprinkled with a few extra herbs.\n"
+        ]
+      },{
+        "id": 15,
+        "title": "Chicken Basquaise",
+        "category": "Dinner",
+        "ingredients": ["Chicken","Butter","Olive Oil","Red Onions","Red Pepper","Chorizo","Sun-Dried Tomatoes","Garlic","Basmati Rice", "Tomato Puree", "Paprika", "Bay Leaves", "Thyme", "Chicken Stock", "Dry White Wine", "Lemons", "Black Olives", "Salt", "Pepper"],
+        "image": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+        "instructions": [
+          "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan. Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go. Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.",
+          "Add a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned. Add the rest of the oil, then the peppers and cook for another 5 minutes.",
+          "Add the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes. Add the rice, stirring to ensure it is well coated in the oil. Stir in the tomato paste, paprika, bay leaves and chopped thyme. Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer.\n",
+          "Press the rice down into the liquid if it isn't already submerged and place the chicken on top. Add the lemon wedges and olives around the chicken.\n",
+          "Cover and cook in the oven for 50 minutes. The rice should be cooked but still have some bite, and the chicken should have juices that run clear when pierced in the thickest part with a knife. If not, cook for another 5 minutes and check again."
+        ]
       }
     ]
   }

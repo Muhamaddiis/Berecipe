@@ -20,13 +20,13 @@ const Categories = ({handleClick}) => {
     <tr>      
       <td className="border border-black p-4">
         <img src={Break} alt="Image 1" className="w-16 h-16 object-cover mr-4" />
-        <h2 className="text-xl font-bold mb-2">Heading 1</h2>
+        <h2 className="text-xl font-bold mb-2">Breakfast</h2>
         <p className="text-gray-700">This is a paragraph of text for the first table cell.</p>
         <button className="space-x-10" onClick={handleClick}>View more <span><FontAwesomeIcon icon={faArrowRight} style={{color: "#000000",}} /></span></button>
       </td>
       <td className="border border-black p-4">
         <img src={Dinner} alt="Image 2" className="w-16 h-16 object-contain mr-4" />
-        <h2 className="text-xl font-bold mb-2">Heading 2</h2>
+        <h2 className="text-xl font-bold mb-2">Lunch</h2>
         <p className="text-gray-700">This is a paragraph of text for the second table cell.</p>
         <button className="space-x-10" onClick={handleClick}>View more <span><FontAwesomeIcon icon={faArrowRight} style={{color: "#000000",}} /></span></button>        
       </td>
@@ -34,13 +34,13 @@ const Categories = ({handleClick}) => {
     <tr>
       <td className="border border-black p-4">
         <img src={Lunch} alt="Image 3" className="w-16 h-16 object-cover mr-4" />
-        <h2 className="text-xl font-bold mb-2">Heading 3</h2>
+        <h2 className="text-xl font-bold mb-2">Dinner</h2>
         <p className="text-gray-700">This is a paragraph of text for the third table cell.</p>
         <button className="space-x-10" onClick={handleClick}>View more <span><FontAwesomeIcon icon={faArrowRight} style={{color: "#000000",}} /></span></button>        
       </td>
       <td className="border border-black p-4">
         <img src={Pastries} alt="Image 4" className="w-16 h-16 object-contain mr-4" />
-        <h2 className="text-xl font-bold mb-2">Heading 4</h2>
+        <h2 className="text-xl font-bold mb-2">Pasteries</h2>
         <p className="text-gray-700">This is a paragraph of text for the fourth table cell.</p>
         <button className="space-x-10" onClick={handleClick}>View more <span><FontAwesomeIcon icon={faArrowRight} style={{color: "#000000",}} /></span></button>        
       </td>
