@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@example.com",
+      "password": "password2"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "email": "user3@example.com",
+      "password": "password3"
+    },
+    {
+      "id": "cf067aef-c18d-47ed-8570-94de6462499b",
+      "email": "moha@test.com",
+      "password": "1234",
+      "username": "khaliti"
+    },
+    {
+      "id": "d1da3cb2-db43-498d-9107-d79a143eb96a",
+      "email": "test1@test.com",
+      "hashedPassword": "$2b$10$QII73cdN8NCL3CRWQ8nBdeJx87A7TnLKg7xB1aSRAsitrzEwQIUDK",
+      "username": "asifmouzin"
+    },
+    {
+      "id": "5de89224-4381-42c1-86d8-95b7f2223a45",
+      "email": "test2@test.com",
+      "hashedPassword": "$2b$10$PCarQvCQZb7RLU/GrszYjuH9ZKq8P4EQ6cTgU75MsnLbncihZjndW",
+      "username": "asifmouzin"
+    },
+    {
+      "id": "8f747a39-0dd1-4046-964a-98c5bd054b18",
+      "email": "test3@test.com",
+      "hashedPassword": "$2b$10$/XSh2iV0N8JtNrj3kr9XB..3cYHxN9N8Gf2LLlXivwHKPx5tOKQG2",
+      "username": "asifmouzin"
+    },
+    {
+      "id": "5e678317-2925-433b-88a1-b82a9c938dce",
+      "email": "asif@test.com",
+      "hashedPassword": "$2b$10$Y/O.rx5XNos7jg1yXlCvA.DFCXn0UHDW8k7YbsYyrm1YLwVu0f4ma",
+      "username": "asifMouzin"
+    },
+    {
+      "id": "d527cdaf-6dcc-404e-afca-4d0c98316474",
+      "email": "asif5@test.com",
+      "hashedPassword": "$2b$10$jZ/6QIFWaHUm2gS7UnnOB.Q4U0VgKl/TPA46G7TbGRqNDKVT5KbWi",
+      "username": "Umbwa sana"
+    },
+    {
+      "id": "f77d747b-7c88-4701-9380-404c333307dd",
+      "email": "ania@test.com",
+      "hashedPassword": "$2b$10$HYHPlnhJiI1PmyFq177QauCexvX1NnsfzU1qHUrq2wUZPZ8OJ6/eK",
+      "username": "kokoi"
+    },
+    {
+      "id": "229fe72e-f728-4254-b3f4-db4f9fd11419",
+      "email": "moha1@test.com",
+      "hashedPassword": "$2b$10$sUpcchiL0q./Ul0Grzw7X.AgiEEOIrsF1DOgTTbQf/FB8EN1j92uS",
+      "username": "khaliti"
+    },
+    {
+      "id": "0eef0f76-ce4f-4e8f-b57a-f547f56384b6",
+      "email": "moha5@test.com",
+      "hashedPassword": "$2b$10$cF1NMUPMYABOiVO1FeqnwuBqN/0.7RiYwMx7FJ/wxMQuMRJUUhp2C",
+      "username": "khoikhoi"
+    }
+  ]
+}

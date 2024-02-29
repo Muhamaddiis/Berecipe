@@ -9,18 +9,21 @@ import b from "../Assets/b.svg";
 import Nav from "../components/Nav"
 import { Link } from "react-router-dom";
 import Auth from "./Auth"
+import { useCookies } from "react-cookie";
 const Recipe = () => {
+  const [cookies, setCookie, removeCookie] = useCookies()
   const [food, setFood] = useState([]);
   const [cache, setCache] = useState([]);
   const [filtered, setFiltered] = useState([]);
   const [newFood, setNewFood] = useState('');
 
-  let authToken = false
+
+  const authToken = cookies.AuthToken
 
   useEffect(() => {
     meal.getAll().then(res => {
-      setFood(res);
-      setCache(res)
+      setFood(res.meal);
+      setCache(res.meal)
       // Added this line to set the initial food state
     });
   }, []);

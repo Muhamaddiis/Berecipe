@@ -3,6 +3,7 @@ import Break from "../Assets/Frame 9.svg"
 import Dinner from "../Assets/Frame 10.svg"
 import Lunch from "../Assets/Frame 8.svg"
 import Pastries from "../Assets/Frame 11.svg"
+import { Link } from "react-router-dom"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons"
 const Categories = ({handleClick}) => {
@@ -35,8 +36,10 @@ const Categories = ({handleClick}) => {
       <td className="border border-black p-4">
         <img src={Lunch} alt="Image 3" className="w-16 h-16 object-cover mr-4" />
         <h2 className="text-xl font-bold mb-2">Dinner</h2>
-        <p className="text-gray-700">This is a paragraph of text for the third table cell.</p>
-        <button className="space-x-10" onClick={handleClick}>View more <span><FontAwesomeIcon icon={faArrowRight} style={{color: "#000000",}} /></span></button>        
+        <p className="text-gray-700">This is a paragraph of text for the third table cell.</p>   
+        <Link to="/recipes?category=Breakfast">
+            <button className="space-x-10">View more <span><FontAwesomeIcon icon={faArrowRight} style={{ color: "#000000", }} /></span></button>
+      </Link>
       </td>
       <td className="border border-black p-4">
         <img src={Pastries} alt="Image 4" className="w-16 h-16 object-contain mr-4" />

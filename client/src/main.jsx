@@ -11,6 +11,7 @@ import Recipes from './pages/Recipes.jsx';
 import Recipe from './pages/Recipe.jsx';
 import Contacts from './pages/Contacts.jsx';
 import Auth from './pages/Auth.jsx'
+import Myrecipes from './pages/Myrecipes.jsx'
 
 const router = createBrowserRouter([
   {
@@ -33,6 +34,10 @@ const router = createBrowserRouter([
   {
     path: "/Contacts",
     element: <Contacts/>,
+  },
+  {
+    path: "/my/",
+    element: <Myrecipes />
   },
   {
     path: "/Auth",

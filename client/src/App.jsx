@@ -11,7 +11,7 @@ const App = () => {
   const [randomMeal, setRandomMeal] = useState([]);
   const [recipe, setRecipe] = useState([]);
   useEffect(() => {
-    meal.getAll().then(res => { setRandomMeal(res) })
+    meal.getAll().then(res => { setRandomMeal(res.meal); })
   }, []);
   const shuffledData = randomMeal.sort(() => Math.random() - 0.5);
   const slicedData = shuffledData.slice(0, 8)
